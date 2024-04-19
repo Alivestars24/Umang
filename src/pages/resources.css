@@ -1,0 +1,10 @@
+.card-div{
+    border-top-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+}
+
+.icon-res{
+    color:#4d0e5a;
+    width: 20px;
+    height: 20px;
+}

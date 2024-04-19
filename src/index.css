@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.servicecard{
+    border-top-left-radius: 25%;
+    border-bottom-right-radius: 25%;
+}
+
